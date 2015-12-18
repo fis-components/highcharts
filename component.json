@@ -1,9 +1,0 @@
-{
-    "name": "highcharts",
-    "description": "JavaScript charting framework",
-    "repos": "https://github.com/highcharts/highcharts.git",
-    "main": "lib/highcharts",
-    "tag": "master",
-    "reposType": "npm",
-    "version": "4.2.0"
-}
